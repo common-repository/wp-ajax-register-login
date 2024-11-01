@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Ajax Register Login\n"
+"POT-Creation-Date: 2015-09-23 14:43+0200\n"
+"PO-Revision-Date: 2015-09-23 14:56+0200\n"
+"Last-Translator: minimac <chris.mac@alice.it>\n"
+"Language-Team: minimac <chris.mac@alice.it>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-arl.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wp-arl.php:21
+msgid "General"
+msgstr "Generali"
+
+#: wp-arl.php:23
+msgid "Position"
+msgstr "Posizione"
+
+#: wp-arl.php:26
+msgid "Disable Bootstrap CSS on your theme?"
+msgstr "Vuoi disabilitare il CSS BootStrap nel tema?"
+
+#: wp-arl.php:33
+msgid "Left"
+msgstr "Sinistra"
+
+#: wp-arl.php:34
+msgid "Right"
+msgstr "Destra"
+
+#: wp-arl.php:49
+msgid "WP ARL Settings"
+msgstr "WP ARL Impostazioni"
+
+#: wp-arl.php:134
+msgid "Password is not correct"
+msgstr "La Password non è corretta"
+
+#: wp-arl.php:136
+msgid "Username is not correct"
+msgstr "L’username non è corretto"
+
+#: wp-arl.php:138
+msgid "Insert password"
+msgstr "Inserisci la password"
+
+#: wp-arl.php:140
+msgid "Please compile the form"
+msgstr "Compila tutti i campi"
+
+#: wp-arl.php:150
+msgid "Logged-in, please wait..."
+msgstr "Autenticazione in corso, attendere prego…"
+
+#: wp-arl.php:165
+msgid "Specify an email address or a valid username"
+msgstr "Specifica un indirizzo email o username validi"
+
+#: wp-arl.php:175
+msgid "Username or email does not exist"
+msgstr "L’utente o la email non esiste"
+
+#: wp-arl.php:183
+msgid "Dear customer, the new password to access his profile on "
+msgstr "Gentile utente, la nuova password per accedere al tuo profilo"
+
+#: wp-arl.php:183
+msgid " is"
+msgstr "è"
+
+#: wp-arl.php:186
+msgid "Reset Password"
+msgstr "Resetta la Password"
+
+#: wp-arl.php:188
+msgid "New password sent to your email address correctly"
+msgstr "La nuova password è stata inviata correttamente alla tua email."
+
+#: wp-arl.php:231
+msgid "All data must be filled in order to proceed!"
+msgstr "Tutti i campi devono essere compilati per procedere!"
+
+#: wp-arl.php:235
+msgid "You must accept the privacy policy to continue."
+msgstr "Acconsento al trattamento dei miei dati personali."
+
+#: wp-arl.php:242
+msgid "The email entered is not valid"
+msgstr "L’email inserita non è valida"
+
+#: wp-arl.php:249
+msgid "The username must be at least"
+msgstr "L’username inserito non è valido"
+
+#: wp-arl.php:249 wp-arl.php:253
+msgid "characters"
+msgstr "caratteri"
+
+#: wp-arl.php:253
+msgid "The password must be at least"
+msgstr "La password deve essere almeno"
+
+#: wp-arl.php:257
+msgid "Passwords do not match."
+msgstr "Le passwords non corrispondono"
+
+#: wp-arl.php:261 wp-arl.php:265
+msgid "We are sorry. The chosen username is not available."
+msgstr "Spiacenti. L’username non è disponibile."
+
+#: wp-arl.php:269
+msgid "The email indicated is already present in our database."
+msgstr "L’email indicata è già presente nel nostro database."
+
+#: wp-arl.php:275
+msgid "Sorry, the recording can not be carried out on, contact your service"
+msgstr ""
+"Spiacenti, la registrazione non può essere effettuata, contattaci al più "
+"presto."
+
+#: wp-arl.php:284 wp-arl.php:348 wp-arl.php:349 wp-arl.php:406
+msgid "Username"
+msgstr "Username"
+
+#: wp-arl.php:284 wp-arl.php:352 wp-arl.php:353 wp-arl.php:414 wp-arl.php:415
+msgid "Password"
+msgstr "Password"
+
+#: wp-arl.php:287
+msgid "Registration of new user on"
+msgstr "Registrazione di un nuovo utente su"
+
+#: wp-arl.php:293
+msgid "Welcome to"
+msgstr "Benvenuto"
+
+#: wp-arl.php:293
+msgid ""
+"A confirmation has been sent to the specified address. Soon you will be "
+"automatically logged into the system."
+msgstr ""
+"Una email di conferma è stata inviata all’indirizzo specificato. A breve "
+"verrai autenticato dal sistema."
+
+#: wp-arl.php:319
+msgid "Logout"
+msgstr "Logout"
+
+#: wp-arl.php:323 wp-arl.php:400
+msgid "Register"
+msgstr "Registrati"
+
+#: wp-arl.php:324 wp-arl.php:339 wp-arl.php:356
+msgid "Login"
+msgstr "Login"
+
+#: wp-arl.php:337 wp-arl.php:398
+msgid "Close"
+msgstr "Chiudi"
+
+#: wp-arl.php:364
+msgid "Lost Password?"
+msgstr "Password persa?"
+
+#: wp-arl.php:370
+msgid "Enter your username or your email"
+msgstr "Inserisci username o email"
+
+#: wp-arl.php:375
+msgid "Reset"
+msgstr "Resetta"
+
+#: wp-arl.php:377
+msgid "Password reset. Check your email."
+msgstr "Password resettata. Controlla la tua email."
+
+#: wp-arl.php:407
+msgid "Insert your username..."
+msgstr "Inserisci username…"
+
+#: wp-arl.php:410
+msgid "Email"
+msgstr "Email"
+
+#: wp-arl.php:411
+msgid "Insert your email..."
+msgstr "Inserisci email…"
+
+#: wp-arl.php:418
+msgid "Ripeti Password"
+msgstr "Ripeti Password"
+
+#: wp-arl.php:419
+msgid "Repeat password"
+msgstr "Ripeti Password"
+
+#: wp-arl.php:425
+msgid "I consent to my data"
+msgstr "Acconsento al trattamento dei miei dati personali"
+
+#: wp-arl.php:429
+msgid "Register Me"
+msgstr "Registrami"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Ajax Register Login"
+msgstr "WP Ajax Register Login"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "minimamente.com"
+msgstr "minimamente.com"
+
+#. Description of the plugin/theme
+msgid "This plugin add Register and Login functions to your Site"
+msgstr "Questo plugin inserisce la registrazione ed il Login sul tuo sito"
+
+#. Author of the plugin/theme
+msgid "Christian Pucci"
+msgstr "Christian Pucci"
